@@ -1,0 +1,479 @@
+Result,East,Rank,West,Result.1,year,month
+1-3-11,Hakuho,Y,Kakuryu,1-4-10,2020,01
+11-4,Takakeisho,O,Goeido,5-10,2020,01
+10-5,Asanoyama,S,Takayasu,6-9 ↓,2020,01
+5-10 ↓,Abi,K,Daieisho,7-8 ↓,2020,01
+9-6 S ↑,Endo,M1,Myogiryu,5-10,2020,01
+11-4 G ↑,Hokutofuji,M2,Mitakeumi,7-8,2020,01
+5-10,Tamawashi,M3,Kotoyuki,0-0-15 ↓,2020,01
+8-7,Okinoumi,M4,Shodai,13-2 JK ↑,2020,01
+1-7-7,Meisei,M5,Enho,8-7,2020,01
+7-8,Takarafuji,M6,Tochinoshin,5-10,2020,01
+7-8,Shohozan,M7,Onosho,9-6,2020,01
+4-11,Aoiyama,M8,Ryuden,10-5,2020,01
+7-8,Takanosho,M9,Yutakayama,11-4,2020,01
+7-8,Sadanoumi,M10,Ishiura,6-9,2020,01
+7-8,Chiyotairyu,M11,Kagayaki,10-5,2020,01
+6-9,Tsurugisho,M12,Chiyomaru,6-9,2020,01
+7-8,Kotoshogiku,M13,Kotoeko,2-13 ↓,2020,01
+8-7,Terutsuyoshi,M14,Shimanoumi,6-9,2020,01
+7-8,Azumaryu,M15,Ikioi,8-7,2020,01
+9-6,Tochiozan,M16,Kaisei,8-7,2020,01
+11-4 K,Kiribayama,M17,Tokushoryu,14-1 YSK,2020,01
+0-0-15,Tomokaze,J1,Chiyoshoma,7-8,2020,01
+8-7 ↑,Kotonowaka,J2,Hidenoumi,8-7,2020,01
+7-8,Daishomaru,J3,Kizakiumi,3-12,2020,01
+11-4 ↑,Nishikigi,J4,Mitoryu,6-9,2020,01
+9-6,Wakatakakage,J5,Daishoho,9-6,2020,01
+11-4 ↑,Daiamami,J6,Tobizaru,9-6,2020,01
+6-9,Ichinojo,J7,Yago,4-11,2020,01
+7-8,Kyokutaisei,J8,Kotoshoho,9-6,2020,01
+10-5,Kyokushuho,J9,Akua,9-6,2020,01
+4-11 ↓,Sokokurai,J10,Takagenji,7-8,2020,01
+4-11 ↓,Toyonoshima,J11,Irodori,1-6-8 ↓,2020,01
+7-8,Asagyokusei,J12,Churanoumi,8-7,2020,01
+6-9,Chiyootori,J13,Terunofuji,13-2 Y,2020,01
+8-7,Hoshoryu,J14,Sakigake,6-9 ↓,2020,01
+2-5,Kaisho,Ms1,Wakamotoharu,6-1 ↑,2020,01
+5-2 ↑,Midorifuji,Ms2,Shiba,3-4,2020,01
+3-4,Oki,Ms3,Chiyonoumi,5-2 ↑,2020,01
+4-3 ↑,Akiseyama,Ms4,Hakuyozan,6-1 ↑,2020,01
+3-4,Naya,Ms5,Ichiyamamoto,0-0-7,2020,01
+3-4,Chiyonokuni,Ms6,Asabenkei,4-3,2020,01
+2-5,Tsukahara,Ms7,Fujiazuma,4-3,2020,01
+1-6,Kotokuzan,Ms8,Gokushindo,4-3,2020,01
+0-3-4,Gagamaru,Ms9,Kotodaigo,5-2,2020,01
+4-3,Toyohibiki,Ms10,Gochozan,1-2-4,2020,01
+3-4,Seiro,Ms11,Kainoryu,2-5,2020,01
+5-2,Chiyonoo,Ms12,Kitaharima,3-4,2020,01
+3-4,Shonannoumi,Ms13,Shiraishi,2-5,2020,01
+4-3,Motobayashi,Ms14,Sagatsukasa,2-5,2020,01
+2-5,Terasawa,Ms15,Kyokusoten,3-4,2020,01
+4-3,Kizenryu,Ms16,Hokaho,4-3,2020,01
+5-2,Roga,Ms17,Wakatakamoto,4-3,2020,01
+6-1,Daiseido,Ms18,Chiyoarashi,5-2,2020,01
+3-4,Nionoumi,Ms19,Ryusei,4-3,2020,01
+3-4,Kotodairyu,Ms20,Kairyu,4-3,2020,01
+4-1-2,Hatooka,Ms21,Tsushimanada,3-4,2020,01
+2-5,Keitenkai,Ms22,Asakoki,4-3,2020,01
+3-4,Shohoryu,Ms23,Bushozan,4-3,2020,01
+4-3,Tsurubayashi,Ms24,Kagamio,3-4,2020,01
+0-7 ↓,Asatenmai,Ms25,Chiyosakae,5-2,2020,01
+2-5,Tochiseiryu,Ms26,Masutoo,0-1-6 ↓,2020,01
+3-4,Hokutokawa,Ms27,Tokushinho,2-5,2020,01
+3-4,Higoarashi,Ms28,Tomisakae,4-3,2020,01
+1-6,Terao,Ms29,Ichiki,5-2,2020,01
+5-2,Koba,Ms30,Hiradoumi,2-5,2020,01
+5-2,Ayanoumi,Ms31,Amanoshima,3-4,2020,01
+6-1,Jokoryu,Ms32,Hokutoyo,4-3,2020,01
+4-3,Omoto,Ms33,Daishoryu,3-4,2020,01
+5-2,Tanabe,Ms34,Yamatoarashi,1-6 ↓,2020,01
+3-4,Genki,Ms35,Ryuko,6-1,2020,01
+2-5,Sadanohikari,Ms36,Wakayama,4-3,2020,01
+4-3,Yokoe,Ms37,Higonojo,3-4,2020,01
+5-2,Takakento,Ms38,Kotohayato,3-4,2020,01
+4-3,Horyuyama,Ms39,Tokisakae,5-2,2020,01
+3-4,Hokutoshu,Ms40,Kijuin,1-6 ↓,2020,01
+3-4,Inoue,Ms41,Kototsubasa,5-2,2020,01
+3-4,Hamayutaka,Ms42,Nakazono,4-3,2020,01
+4-3,Tochikamiyama,Ms43,Oazuma,2-5 ↓,2020,01
+2-5 ↓,Mugendai,Ms44,Chiyoraizan,3-4,2020,01
+4-3,Chiyonokatsu,Ms45,Yuki,4-3,2020,01
+2-5 ↓,Tochikodai,Ms46,Obayama,4-3,2020,01
+3-4,Fukamiyama,Ms47,Kotoozutsu,5-2,2020,01
+4-3,Saidaiji,Ms48,Arawashi,0-0-7,2020,01
+2-4-1 ↓,Asakishin,Ms49,Hokutotsubasa,6-1,2020,01
+3-4 ↓,Sasakiyama,Ms50,Tamakongo,2-5 ↓,2020,01
+3-4 ↓,Tsushida,Ms51,Kaito,7-0 Y,2020,01
+1-6 ↓,Kiyonoumi,Ms52,Kitadaichi,5-2,2020,01
+4-3,Wakanoumi,Ms53,Yutakasho,1-5-1 ↓,2020,01
+3-4 ↓,Byakko,Ms54,Kaiho,2-5 ↓,2020,01
+4-3,Amakaze,Ms55,Tochimaru,3-4 ↓,2020,01
+3-4 ↓,Azumasato,Ms56,Kotoyusho,4-3,2020,01
+5-2,Kitanowaka,Ms57,Narutaki,4-3,2020,01
+2-5 ↓,Genkaiho,Ms58,Nishikifuji,4-3,2020,01
+4-3,Kainishiki,Ms59,Akinoyama,3-4 ↓,2020,01
+2-5 ↓,Tochimitsuru,Ms60,Okinofuji,5-2,2020,01
+13-2 Y,Hakuho,Y,Kakuryu,12-3 J,2020,03
+7-8,Takakeisho,O,,,2020,03
+11-4 ↑,Asanoyama,S,Shodai,8-7,2020,03
+4-11 ↓,Hokutofuji,K,Endo,7-8 ↓,2020,03
+8-7 ↑,Daieisho,M1,Takayasu,0-5-10,2020,03
+8-7 ↑,Okinoumi,M2,Tokushoryu,4-11,2020,03
+8-7,Yutakayama,M3,Mitakeumi,10-5 ↑,2020,03
+6-9,Enho,M4,Abi,7-8,2020,03
+6-9,Ryuden,M5,Onosho,9-6 S,2020,03
+4-11,Myogiryu,M6,Kagayaki,8-7,2020,03
+9-6,Takarafuji,M7,Tamawashi,6-9,2020,03
+4-11,Shohozan,M8,Kiribayama,9-6,2020,03
+12-3 JK,Takanosho,M9,Tochinoshin,6-9,2020,03
+6-9,Sadanoumi,M10,Tochiozan,3-12 ↓,2020,03
+8-7,Chiyotairyu,M11,Terutsuyoshi,9-6,2020,03
+9-6,Ishiura,M12,Ikioi,8-7,2020,03
+7-8,Kotoshogiku,M13,Aoiyama,11-4 G,2020,03
+8-7,Kaisei,M14,Nishikigi,6-9,2020,03
+1-4-10 ↓,Tsurugisho,M15,Chiyomaru,7-6-2,2020,03
+5-10 ↓,Azumaryu,M16,Shimanoumi,9-6,2020,03
+7-8 ↓,Meisei,M17,Daiamami,5-10 ↓,2020,03
+9-6,Kotonowaka,M18,,,2020,03
+8-7 ↑,Kotoyuki,J1,Hidenoumi,6-9,2020,03
+8-7,Chiyoshoma,J2,Wakatakakage,10-5 ↑,2020,03
+10-5 ↑,Terunofuji,J3,Daishoho,4-11,2020,03
+10-5,Tobizaru,J4,Daishomaru,5-10,2020,03
+11-4 ↑,Kotoeko,J5,Kyokushuho,8-7,2020,03
+12-3 Y ↑,Kotoshoho,J6,Akua,4-11,2020,03
+4-11,Mitoryu,J7,Churanoumi,6-9,2020,03
+9-6,Kyokutaisei,J8,Ichinojo,9-6,2020,03
+6-9,Kizakiumi,J9,Hoshoryu,8-7,2020,03
+4-11 ↓,Yago,J10,Takagenji,6-9,2020,03
+8-7,Wakamotoharu,J11,Midorifuji,7-8,2020,03
+9-6,Hakuyozan,J12,Asagyokusei,5-10 ↓,2020,03
+7-8,Chiyonoumi,J13,Tomokaze,0-0-15 ↓,2020,03
+9-6,Chiyootori,J14,Akiseyama,9-6,2020,03
+0-0-7,Sokokurai,Ms1,Sakigake,3-4,2020,03
+2-5,Toyonoshima,Ms2,Kotodaigo,4-3,2020,03
+6-1 ↑,Asabenkei,Ms3,Fujiazuma,5-2 ↑,2020,03
+5-2 ↑,Chiyonoo,Ms4,Daiseido,1-6,2020,03
+1-6,Kaito,Ms5,Gokushindo,0-0-7,2020,03
+3-4,Shiba,Ms6,Toyohibiki,3-4,2020,03
+5-2,Oki,Ms7,Irodori,0-2-5,2020,03
+2-5,Roga,Ms8,Naya,4-3,2020,03
+4-3,Kaisho,Ms9,Chiyoarashi,4-3,2020,03
+3-4,Chiyonokuni,Ms10,Oshoryu,2-5,2020,03
+5-2,Jokoryu,Ms11,Kizenryu,4-3,2020,03
+4-3,Hokaho,Ms12,Yuma,0-0-7,2020,03
+3-4,Wakatakamoto,Ms13,Ryuko,5-2,2020,03
+3-4,Ryusei,Ms14,Chiyosakae,2-5,2020,03
+5-2,Kairyu,Ms15,Tsukahara,4-3,2020,03
+0-0-7,Hatooka,Ms16,Seiro,0-0-7,2020,03
+5-2,Ichiki,Ms17,Asakoki,2-5,2020,03
+3-4,Bushozan,Ms18,Mifuneyama,3-4,2020,03
+6-1,Kitaharima,Ms19,Tsurubayashi,2-5,2020,03
+3-4,Ayanoumi,Ms20,Shonannoumi,3-4,2020,03
+4-3,Hokutotsubasa,Ms21,Tanabe,4-3,2020,03
+3-3-1,Tomisakae,Ms22,Kyokusoten,6-1,2020,03
+5-2,Takakento,Ms23,Kainoryu,3-4,2020,03
+4-3,Tokisakae,Ms24,Nionoumi,3-4,2020,03
+5-2,Kototsubasa,Ms25,Hokutoyo,3-4,2020,03
+4-3,Omoto,Ms26,Kotodairyu,2-5,2020,03
+4-3,Tsushimanada,Ms27,Wakayama,4-3,2020,03
+1-6 ↓,Yokoe,Ms28,Kotoozutsu,2-5,2020,03
+6-1,Shiraishi,Ms29,Horyuyama,2-5,2020,03
+2-5,Kitadaichi,Ms30,Shohoryu,4-3,2020,03
+1-6 ↓,Sagatsukasa,Ms31,Kagamio,4-3,2020,03
+3-4,Terasawa,Ms32,Kotokuzan,5-2,2020,03
+4-3,Nakazono,Ms33,Tochikamiyama,3-4,2020,03
+5-2,Kitanowaka,Ms34,Chiyonokatsu,3-4,2020,03
+5-2,Hokutokawa,Ms35,Yuki,2-5,2020,03
+4-3,Higoarashi,Ms36,Obayama,2-5,2020,03
+3-4,Kawamoto,Ms37,Okinofuji,5-2,2020,03
+0-0-7 ↓,Gochozan,Ms38,Asahisho,4-3,2020,03
+3-4,Saidaiji,Ms39,Keitenkai,3-1-3,2020,03
+3-4,Aozora,Ms40,Amanoshima,6-1,2020,03
+2-5 ↓,Hokutoo,Ms41,Oginosho,4-3,2020,03
+3-4,Takaryu,Ms42,Daishoryu,5-2,2020,03
+0-7 ↓,Shoji,Ms43,Wakanoumi,4-3,2020,03
+3-4,Tochiseiryu,Ms44,Gagamaru,0-0-7 ↓,2020,03
+1-6 ↓,Itadaki,Ms45,Ichiyamamoto,5-2,2020,03
+3-4 ↓,Genki,Ms46,Amakaze,4-3,2020,03
+3-4 ↓,Tokushinho,Ms47,Kotoyusho,4-3,2020,03
+3-4 ↓,Higonojo,Ms48,Narutaki,2-5 ↓,2020,03
+7-0 Y,Nishikifuji,Ms49,Sadanohana,4-3,2020,03
+4-3,Kotohayato,Ms50,Hiradoumi,5-2,2020,03
+3-4 ↓,Kainishiki,Ms51,Rao,2-5 ↓,2020,03
+4-3,Kotoseigo,Ms52,Hokutoshu,3-4 ↓,2020,03
+2-5 ↓,Kaizen,Ms53,Inoue,5-2,2020,03
+5-2,Hamayutaka,Ms54,Sadanohikari,2-5 ↓,2020,03
+4-3,Onojo,Ms55,Chiyoraizan,2-5 ↓,2020,03
+1-6 ↓,Dewanojo,Ms56,Kaiyudai,3-4 ↓,2020,03
+5-2,Tochinobori,Ms57,Murata,6-1,2020,03
+4-3,Shuji,Ms58,Fukuyama,3-4 ↓,2020,03
+3-4 ↓,Daishozen,Ms59,Suzuki,4-3,2020,03
+3-4 ↓,Fukamiyama,Ms60,Terao,6-1,2020,03
+10-3-2,Hakuho,Y,Kakuryu,0-2-13,2020,07
+8-4-3,Takakeisho,O,Asanoyama,12-3 J,2020,07
+11-4 K,Shodai,S,Mitakeumi,11-4 S,2020,07
+11-4 S ↑,Daieisho,K,Okinoumi,9-6,2020,07
+8-7 ↑,Endo,M1,Yutakayama,5-10,2020,07
+8-7,Takanosho,M2,Onosho,2-13,2020,07
+5-10,Takarafuji,M3,Kiribayama,6-9,2020,07
+5-10,Kagayaki,M4,Aoiyama,5-10,2020,07
+3-4-8,Abi,M5,Hokutofuji,9-6,2020,07
+5-10,Enho,M6,Ryuden,7-8,2020,07
+8-7,Terutsuyoshi,M7,Tokushoryu,7-8,2020,07
+4-11,Ishiura,M8,Chiyotairyu,6-9,2020,07
+10-5,Tamawashi,M9,Ikioi,3-12 ↓,2020,07
+6-9,Kaisei,M10,Myogiryu,10-5,2020,07
+5-10,Shimanoumi,M11,Tochinoshin,10-5,2020,07
+8-7,Sadanoumi,M12,Shohozan,5-10,2020,07
+10-5,Takayasu,M13,Kotonowaka,4-6-5 ↓,2020,07
+8-7,Kotoshogiku,M14,Wakatakakage,10-5,2020,07
+8-7,Kotoshoho,M15,Chiyomaru,4-11 ↓,2020,07
+6-9 ↓,Nishikigi,M16,Kotoeko,10-5,2020,07
+13-2 YGS,Terunofuji,M17,Kotoyuki,6-8-1 ↓,2020,07
+10-5 Y ↑,Meisei,J1,Chiyoshoma,6-9,2020,07
+9-6 ↑,Tobizaru,J2,Tochiozan,0-0,2020,07
+5-10,Azumaryu,J3,Kyokushuho,6-9,2020,07
+7-8,Daiamami,J4,Hidenoumi,5-10,2020,07
+10-5 D ↑,Kyokutaisei,J5,Ichinojo,9-6 ↑,2020,07
+10-5 D ↑,Hoshoryu,J6,Hakuyozan,5-10,2020,07
+8-7,Daishomaru,J7,Tsurugisho,7-8,2020,07
+9-6,Wakamotoharu,J8,Chiyootori,7-8,2020,07
+7-8,Akiseyama,J9,Churanoumi,8-7,2020,07
+6-9,Daishoho,J10,Asabenkei,3-12 ↓,2020,07
+6-9,Fujiazuma,J11,Kizakiumi,7-8,2020,07
+8-7,Midorifuji,J12,Chiyonoo,10-5 D,2020,07
+6-9 ↓,Takagenji,J13,Akua,10-5 D,2020,07
+6-9 ↓,Chiyonoumi,J14,Mitoryu,10-5 D,2020,07
+3-4,Kotodaigo,Ms1,Yago,3-5,2020,07
+2-5,Asagyokusei,Ms2,Oki,5-2 ↑,2020,07
+5-2 ↑,Nishikifuji,Ms3,Kitaharima,5-2 ↑,2020,07
+4-3,Sakigake,Ms4,Jokoryu,5-2,2020,07
+4-3,Naya,Ms5,Ryuko,1-6,2020,07
+5-2,Kaisho,Ms6,Kyokusoten,2-5,2020,07
+3-4,Chiyoarashi,Ms7,Toyonoshima,0-0,2020,07
+3-4,Kizenryu,Ms8,Kairyu,3-4,2020,07
+3-4,Hokaho,Ms9,Shiba,0-0-7,2020,07
+3-4,Toyohibiki,Ms10,Shiraishi,6-1,2020,07
+4-3,Ichiki,Ms11,Tomokaze,0-0-7,2020,07
+4-3,Tsukahara,Ms12,Chiyonokuni,7-0 Y ↑,2020,07
+4-3,Takakento,Ms13,Kototsubasa,1-6,2020,07
+4-3,Daiseido,Ms14,Kaito,2-5,2020,07
+2-5,Hokutotsubasa,Ms15,Tanabe,3-4,2020,07
+3-4,Wakatakamoto,Ms16,Roga,2-5,2020,07
+3-4,Amanoshima,Ms17,Tokisakae,5-2,2020,07
+4-3,Kotokuzan,Ms18,Ryusei,2-5,2020,07
+6-1,Ura,Ms19,Oshoryu,5-2,2020,07
+4-3,Omoto,Ms20,Kitanowaka,4-3,2020,07
+3-4,Hokutokawa,Ms21,Tsushimanada,6-1,2020,07
+3-4,Wakayama,Ms22,Bushozan,5-2,2020,07
+2-3-2,Mifuneyama,Ms23,Okinofuji,3-4,2020,07
+2-5,Shohoryu,Ms24,Murata,4-3,2020,07
+3-4,Ayanoumi,Ms25,Kagamio,1-4-2,2020,07
+4-3,Shonannoumi,Ms26,Daishoryu,3-4,2020,07
+0-0-7,Terao,Ms27,Nakazono,4-3,2020,07
+4-3,Chiyosakae,Ms28,Ichiyamamoto,5-2,2020,07
+3-4,Tomisakae,Ms29,Higoarashi,1-6,2020,07
+4-3,Kainoryu,Ms30,Tochimaru,5-2,2020,07
+2-5,Asahisho,Ms31,Nionoumi,5-2,2020,07
+5-2,Asakoki,Ms32,Hokutoyo,4-3,2020,07
+0-7 ↓,Oginosho,Ms33,Tsurubayashi,2-5,2020,07
+4-3,Hiradoumi,Ms34,Wakanoumi,2-5,2020,07
+1-2-4,Inoue,Ms35,Hamayutaka,3-4,2020,07
+4-3,Amakaze,Ms36,Tochinobori,4-3,2020,07
+4-3,Kotoyusho,Ms37,Nankairiki,3-4,2020,07
+3-4,Terasawa,Ms38,Kotodairyu,3-4,2020,07
+2-5,Sadanohana,Ms39,Tochikamiyama,5-2,2020,07
+1-6 ↓,Daikisho,Ms40,Kotohayato,3-4,2020,07
+5-2,Shosei,Ms41,Sokokurai,0-0,2020,07
+0-0-7 ↓,Chiyonokatsu,Ms42,Irodori,0-0-7 ↓,2020,07
+4-3,Kotoseigo,Ms43,Kotoozutsu,3-4,2020,07
+4-3,Tochikodai,Ms44,Horyuyama,3-4,2020,07
+3-4,Onojo,Ms45,Gokushindo,0-0-7 ↓,2020,07
+5-2,Kawamoto,Ms46,Akinoyama,5-2,2020,07
+3-4,Kitadaichi,Ms47,Saidaiji,2-5 ↓,2020,07
+2-5 ↓,Shuji,Ms48,Keitenkai,4-3,2020,07
+6-1,Suzuki,Ms49,Wayama,4-3,2020,07
+3-4,Aozora,Ms50,Okinohama,1-6 ↓,2020,07
+4-3,Sasakiyama,Ms51,Aomihama,3-4,2020,07
+3-4 ↓,Mitozakura,Ms52,Yuma,5-2,2020,07
+5-2,Masutoo,Ms53,Takaryu,4-3,2020,07
+4-3,Yamatoarashi,Ms54,Yoshii,4-3,2020,07
+5-2,Mugendai,Ms55,Kamito,6-1,2020,07
+2-5 ↓,Genbumaru,Ms56,Hatooka,0-0-7 ↓,2020,07
+0-0,Seiro,Ms57,Sakaekaze,2-5 ↓,2020,07
+1-6 ↓,Asakishin,Ms58,Katsunofuji,3-4 ↓,2020,07
+2-5 ↓,Tatsukaze,Ms59,Tochiseiryu,6-1,2020,07
+4-3,Yuki,Ms60,Obayama,4-3,2020,07
+0-0-15,Hakuho,Y,Kakuryu,0-0-15,2020,09
+10-5,Asanoyama,O,Takakeisho,12-3 J,2020,09
+13-2 YSK ↑,Shodai,S,Mitakeumi,8-7,2020,09
+5-10 ↓,Daieisho,S,,,2020,09
+4-11 ↓,Okinoumi,K,Endo,3-9-3 ↓,2020,09
+8-5-2 ↑,Terunofuji,M1,Takanosho,10-5 ↑,2020,09
+6-9,Hokutofuji,M2,Tamawashi,5-10,2020,09
+6-9,Myogiryu,M3,Terutsuyoshi,5-10,2020,09
+2-6-7,Yutakayama,M4,Tochinoshin,6-9,2020,09
+9-4-2,Kiribayama,M5,Takarafuji,7-8,2020,09
+10-5 ↑,Takayasu,M6,Kagayaki,8-7,2020,09
+6-9,Ryuden,M7,Aoiyama,7-8,2020,09
+7-8,Tokushoryu,M8,Wakatakakage,11-4,2020,09
+6-9,Enho,M9,Onosho,10-5,2020,09
+7-8,Sadanoumi,M10,Kotoeko,8-7,2020,09
+5-8-2,Chiyotairyu,M11,Kotoshogiku,2-10-3 ↓,2020,09
+10-5,Kotoshoho,M12,Kaisei,7-8,2020,09
+9-6,Meisei,M13,Ishiura,4-4-7 ↓,2020,09
+11-4 K,Tobizaru,M14,Abi,0-0-15 ↓,2020,09
+6-9,Shimanoumi,M15,Shohozan,5-10 ↓,2020,09
+2-3-10 ↓,Kyokutaisei,M16,Hoshoryu,8-7,2020,09
+8-7,Ichinojo,M17,,,2020,09
+3-12,Ikioi,J1,Nishikigi,6-9,2020,09
+8-7 ↑,Kotoyuki,J2,Kotonowaka,9-6 ↑,2020,09
+6-9,Wakamotoharu,J3,Chiyomaru,7-8,2020,09
+9-6 ↑,Chiyoshoma,J4,Daiamami,7-8,2020,09
+5-10,Daishomaru,J5,Kyokushuho,5-10,2020,09
+9-6,Chiyonoo,J6,Akua,10-5 ↑,2020,09
+8-7,Churanoumi,J7,Azumaryu,0-0-15,2020,09
+6-9,Mitoryu,J8,Tsurugisho,7-8,2020,09
+9-6,Hidenoumi,J9,Chiyootori,9-6,2020,09
+11-4,Akiseyama,J10,Midorifuji,11-4,2020,09
+8-7,Hakuyozan,J11,Chiyonokuni,14-1 Y ↑,2020,09
+0-0,Kizakiumi,J12,Daishoho,6-9 ↓,2020,09
+0-15 ↓,Oki,J13,Nishikifuji,7-8,2020,09
+0-0-15,Fujiazuma,J14,Kitaharima,5-10 ↓,2020,09
+4-3 ↑,Takagenji,Ms1,Jokoryu,4-3 ↑,2020,09
+4-3 ↑,Chiyonoumi,Ms2,Shiraishi,0-0-7,2020,09
+3-4,Kaisho,Ms3,Sakigake,3-4,2020,09
+1-6,Asabenkei,Ms4,Naya,5-2,2020,09
+4-3,Kotodaigo,Ms5,Ura,6-1 ↑,2020,09
+2-5,Tsushimanada,Ms6,Ichiki,0-0-7,2020,09
+2-5,Tokisakae,Ms7,Tsukahara,3-4,2020,09
+6-1,Yago,Ms8,Takakento,4-3,2020,09
+3-4,Oshoryu,Ms9,Daiseido,3-4,2020,09
+2-5,Asagyokusei,Ms10,Bushozan,5-2,2020,09
+5-2,Chiyoarashi,Ms11,Kotokuzan,5-2,2020,09
+2-5,Kairyu,Ms12,Hokaho,3-4,2020,09
+3-4,Omoto,Ms13,Ichiyamamoto,4-3,2020,09
+3-4,Toyohibiki,Ms14,Kitanowaka,4-3,2020,09
+4-3,Tamashoho,Ms15,Tochimaru,5-2,2020,09
+1-6,Nionoumi,Ms16,Murata,4-3,2020,09
+2-5,Asakoki,Ms17,Shonannoumi,4-3,2020,09
+2-5,Tochikamiyama,Ms18,Nakazono,5-2,2020,09
+0-0-7,Tanabe,Ms19,Chiyosakae,3-4,2020,09
+2-5,Shosei,Ms20,Ryuko,4-3,2020,09
+5-2,Suzuki,Ms21,Kainoryu,4-3,2020,09
+3-4,Wakatakamoto,Ms22,Amanoshima,3-4,2020,09
+4-3,Hokutoki,Ms23,Kawamoto,2-5,2020,09
+3-4,Akinoyama,Ms24,Hiradoumi,5-2,2020,09
+4-3,Kamito,Ms25,Kaito,3-4,2020,09
+0-2-5 ↓,Hokutokawa,Ms26,Amakaze,4-3,2020,09
+4-3,Tochinobori,Ms27,Hokutotsubasa,2-5,2020,09
+2-5,Kotoyusho,Ms28,Tochiseiryu,6-1,2020,09
+6-1,Wakayama,Ms29,Yuma,4-3,2020,09
+0-7 ↓,Masutoo,Ms30,Roga,6-1,2020,09
+5-2,Okinofuji,Ms31,Mugendai,3-4,2020,09
+4-3,Higonojo,Ms32,Ayanoumi,2-5,2020,09
+3-4,Kotoseigo,Ms33,Tochikodai,4-3,2020,09
+3-2-2,Ryusei,Ms34,Daishoryu,3-4,2020,09
+0-0-7 ↓,Tomisakae,Ms35,Genki,5-2,2020,09
+3-4,Kototsubasa,Ms36,Mifuneyama,0-0-7 ↓,2020,09
+5-2,Shohoryu,Ms37,Keitenkai,3-4,2020,09
+1-1-5,Kainoshima,Ms38,Wayama,3-4,2020,09
+3-4,Tennozan,Ms39,Hamayutaka,4-3,2020,09
+1-6 ↓,Sasakiyama,Ms40,Nankairiki,1-6 ↓,2020,09
+4-3,Asahisho,Ms41,Fukai,5-2,2020,09
+7-0 Y,Terasawa,Ms42,Kotodairyu,3-4,2020,09
+2-5,Takaryu,Ms43,Kagamio,0-0-7 ↓,2020,09
+5-2,Yamatoarashi,Ms44,Yoshii,4-3,2020,09
+4-3,Chiyodaigo,Ms45,Kotohayato,3-4,2020,09
+6-1,Tsurubayashi,Ms46,Kirinofuji,2-5,2020,09
+4-3,Wakanoumi,Ms47,Kotoozutsu,4-3,2020,09
+0-0-7,Horyuyama,Ms48,Higoarashi,2-5 ↓,2020,09
+4-3,Yuki,Ms49,Shiba,4-3,2020,09
+3-4,Obayama,Ms50,Dewataikai,5-2,2020,09
+2-5 ↓,Onojo,Ms51,Yokoe,3-4,2020,09
+0-0-7 ↓,Tomokaze,Ms52,Narutaki,5-2,2020,09
+2-5 ↓,Genkaiho,Ms53,Sadanohana,3-4,2020,09
+3-4,Kitadaichi,Ms54,Nakashima,1-6 ↓,2020,09
+5-2,Mudoho,Ms55,Yoshoyama,4-3,2020,09
+4-3,Sadanoryu,Ms56,Tokunomusashi,4-3,2020,09
+0-0-7 ↓,Inoue,Ms57,Fukamiyama,4-3,2020,09
+2-5 ↓,Izumigawa,Ms58,Oyamatoumi,2-5 ↓,2020,09
+5-2,Ito,Ms59,Itadaki,4-3,2020,09
+5-2,Aozora,Ms60,Aomihama,0-0-7 ↓,2020,09
+0-0-15,Hakuho,Y,Kakuryu,0-0-15,2020,11
+13-2 Y,Takakeisho,O,Asanoyama,1-2-12,2020,11
+3-2-10,Shodai,O,,,2020,11
+7-8,Mitakeumi,S,Takanosho,8-7,2020,11
+13-2 DG,Terunofuji,K,Takayasu,8-7,2020,11
+3-12,Kiribayama,M1,Wakatakakage,7-8,2020,11
+7-8,Onosho,M2,Daieisho,10-5,2020,11
+5-10,Kagayaki,M3,Okinoumi,6-9,2020,11
+11-4,Hokutofuji,M4,Tobizaru,6-9,2020,11
+4-11,Myogiryu,M5,Kotoshoho,8-7,2020,11
+9-6,Takarafuji,M6,Tamawashi,8-7,2020,11
+9-6,Tochinoshin,M7,Endo,8-7,2020,11
+6-9,Aoiyama,M8,Terutsuyoshi,5-10,2020,11
+8-7,Tokushoryu,M9,Kotoeko,6-9,2020,11
+9-6,Ryuden,M10,Meisei,9-6,2020,11
+5-10,Sadanoumi,M11,Enho,3-12,2020,11
+6-9,Yutakayama,M12,Kaisei,6-9,2020,11
+7-8,Hoshoryu,M13,Ichinojo,8-7,2020,11
+10-5 K,Chiyonokuni,M14,Kotonowaka,7-8,2020,11
+9-6,Chiyotairyu,M15,Kotoyuki,0-0-15,2020,11
+8-7,Chiyoshoma,M16,Akua,9-6,2020,11
+11-4 K,Shimanoumi,M17,,,2020,11
+9-6,Akiseyama,J1,Chiyonoo,7-8,2020,11
+10-5 Y,Midorifuji,J2,Shohozan,6-9,2020,11
+8-7,Ishiura,J3,Kotoshogiku,1-6,2020,11
+8-7,Chiyomaru,J4,Nishikigi,6-9,2020,11
+9-6,Daiamami,J5,Hidenoumi,7-8,2020,11
+8-7,Churanoumi,J6,Wakamotoharu,8-7,2020,11
+8-7,Chiyootori,J7,Azumaryu,8-7,2020,11
+8-7,Kyokutaisei,J8,Ikioi,5-10,2020,11
+8-7,Tsurugisho,J9,Daishomaru,8-7,2020,11
+6-9,Hakuyozan,J10,Kyokushuho,10-5 D,2020,11
+8-7,Mitoryu,J11,Abi,0-0-15,2020,11
+7-8,Takagenji,J12,Jokoryu,9-6,2020,11
+9-6,Ura,J13,Nishikifuji,3-12,2020,11
+0-15,Fujiazuma,J14,Chiyonoumi,9-6,2020,11
+3-4,Daishoho,Ms1,Naya,6-1,2020,11
+4-3,Yago,Ms2,Shiraishi,4-3,2020,11
+4-3,Kitaharima,Ms3,Kotodaigo,0-2-5,2020,11
+4-3,Bushozan,Ms4,Terasawa,3-4,2020,11
+2-5,Chiyoarashi,Ms5,Kotokuzan,4-3,2020,11
+5-2,Takakento,Ms6,Ichiki,0-1-6,2020,11
+2-5,Kaisho,Ms7,Sakigake,1-6,2020,11
+4-3,Tochimaru,Ms8,Ichiyamamoto,5-2,2020,11
+5-2,Nakazono,Ms9,Kitanowaka,3-4,2020,11
+3-4,Tochiseiryu,Ms10,Tamashoho,3-4,2020,11
+4-3,Wakayama,Ms11,Suzuki,2-5,2020,11
+4-3,Murata,Ms12,Roga,6-1,2020,11
+1-6,Oki,Ms13,Hiradoumi,3-4,2020,11
+3-4,Shonannoumi,Ms14,Tsukahara,4-3,2020,11
+5-2,Hokutenkai,Ms15,Ryuko,7-0 Y,2020,11
+5-2,Oshoryu,Ms16,Daiseido,1-6,2020,11
+2-5,Kainoryu,Ms17,Okinofuji,4-3,2020,11
+3-4,Hokutoki,Ms18,Hokaho,5-2,2020,11
+3-4,Omoto,Ms19,Tsurubayashi,4-3,2020,11
+2-5,Kamito,Ms20,Amakaze,3-4,2020,11
+3-4,Toyohibiki,Ms21,Tochinobori,3-4,2020,11
+4-3,Genki,Ms22,Tsushimanada,3-4,2020,11
+5-2,Yuma,Ms23,Tokisakae,4-3,2020,11
+6-1,Shohoryu,Ms24,Higonojo,2-5,2020,11
+3-4,Fukai,Ms25,Tochikodai,2-5,2020,11
+5-2,Asabenkei,Ms26,Yamatoarashi,2-5,2020,11
+5-2,Chiyosakae,Ms27,Asagyokusei,4-3,2020,11
+5-2,Kairyu,Ms28,Wakatakamoto,4-3,2020,11
+1-6,Dewataikai,Ms29,Amanoshima,4-3,2020,11
+2-5,Hamayutaka,Ms30,Narutaki,4-3,2020,11
+2-5,Akinoyama,Ms31,Asahisho,3-4,2020,11
+3-4,Mudoho,Ms32,Asakoki,4-3,2020,11
+5-2,Tochikamiyama,Ms33,Yoshii,4-3,2020,11
+3-4,Tamakongo,Ms34,Chiyodaigo,3-4,2020,11
+4-3,Shosei,Ms35,Ito,6-1,2020,11
+4-3,Nionoumi,Ms36,Aozora,5-2,2020,11
+2-5,Wakanoumi,Ms37,Kotoozutsu,5-2,2020,11
+2-5,Kaiyudai,Ms38,Mugendai,4-3,2020,11
+4-3,Yutakasho,Ms39,Kawamoto,3-4,2020,11
+3-4,Yuki,Ms40,Shiba,5-2,2020,11
+2-5,Kotoseigo,Ms41,Ryusei,6-1,2020,11
+3-4,Daishoryu,Ms42,Hokutotsubasa,3-4,2020,11
+3-2-2,Kototsubasa,Ms43,Oginosho,1-6,2020,11
+4-3,Kotoyusho,Ms44,Tsushida,2-5,2020,11
+2-5,Yoshoyama,Ms45,Keitenkai,4-3,2020,11
+2-5,Sadanoryu,Ms46,Tokunomusashi,4-3,2020,11
+4-3,Wayama,Ms47,Tennozan,5-2,2020,11
+2-5,Horyuyama,Ms48,Otsuji,3-4,2020,11
+3-4,Fukamiyama,Ms49,Okinohama,3-4,2020,11
+6-1,Ayanoumi,Ms50,Itadaki,5-2,2020,11
+4-3,Kotodairyu,Ms51,Mitozakura,4-3,2020,11
+1-6,Kotohayato,Ms52,Tanakayama,2-5,2020,11
+3-4,Asonoyama,Ms53,Obayama,5-2,2020,11
+0-0-7,Hikarugenji,Ms54,Chiyonokatsu,4-3,2020,11
+3-4,Tsuyukusa,Ms55,Yokoe,3-4,2020,11
+3-4,Shoji,Ms56,Chiyoraizan,3-4,2020,11
+1-6,Takaryu,Ms57,Hananofuji,5-2,2020,11
+2-5,Kitadaichi,Ms58,Tosamidori,4-3,2020,11
+5-2,Kirinofuji,Ms59,Tanabe,5-2,2020,11
+4-3,Kaiho,Ms60,Kainoshima,6-1,2020,11
