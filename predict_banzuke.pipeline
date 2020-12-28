@@ -9,57 +9,6 @@
       "id": "a2468571-c02a-4567-829f-f99c602d313b",
       "nodes": [
         {
-          "id": "4effbb4c-168e-46c4-b417-dd0d142b8a02",
-          "type": "execution_node",
-          "op": "execute-notebook-node",
-          "app_data": {
-            "filename": "get_banzuke.ipynb",
-            "runtime_image": "amancevice/pandas:1.1.1",
-            "env_vars": [],
-            "include_subdirectories": false,
-            "outputs": [
-              "banzuke_2020.csv"
-            ],
-            "dependencies": [],
-            "invalidNodeError": null,
-            "ui_data": {
-              "label": "get_banzuke.ipynb",
-              "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2216%22%20viewBox%3D%220%200%2022%2022%22%3E%0A%20%20%3Cg%20class%3D%22jp-icon-warn0%20jp-icon-selectable%22%20fill%3D%22%23EF6C00%22%3E%0A%20%20%20%20%3Cpath%20d%3D%22M18.7%203.3v15.4H3.3V3.3h15.4m1.5-1.5H1.8v18.3h18.3l.1-18.3z%22%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M16.5%2016.5l-5.4-4.3-5.6%204.3v-11h11z%22%2F%3E%0A%20%20%3C%2Fg%3E%0A%3C%2Fsvg%3E%0A",
-              "x_pos": 112,
-              "y_pos": 142,
-              "description": "Notebook file"
-            }
-          },
-          "inputs": [
-            {
-              "id": "inPort",
-              "app_data": {
-                "ui_data": {
-                  "cardinality": {
-                    "min": 0,
-                    "max": -1
-                  },
-                  "label": "Input Port"
-                }
-              }
-            }
-          ],
-          "outputs": [
-            {
-              "id": "outPort",
-              "app_data": {
-                "ui_data": {
-                  "cardinality": {
-                    "min": 0,
-                    "max": -1
-                  },
-                  "label": "Output Port"
-                }
-              }
-            }
-          ]
-        },
-        {
           "id": "916fd2a5-53bd-4f82-adc4-42c618a0d065",
           "type": "execution_node",
           "op": "execute-notebook-node",
@@ -111,24 +60,24 @@
           ]
         },
         {
-          "id": "a98195cb-cb3a-46a2-8dcb-9f39e835187b",
+          "id": "2eb0eea0-2351-4f05-a05f-36c5e00f42dc",
           "type": "execution_node",
           "op": "execute-notebook-node",
           "app_data": {
-            "filename": "process_data.ipynb",
+            "filename": "get_banzuke.ipynb",
             "runtime_image": "amancevice/pandas:1.1.1",
             "env_vars": [],
             "include_subdirectories": false,
+            "invalidNodeError": null,
             "outputs": [
-              "processed_ranks.csv"
+              "banzuke_2020.csv"
             ],
             "dependencies": [],
-            "invalidNodeError": null,
             "ui_data": {
-              "label": "process_data.ipynb",
+              "label": "get_banzuke.ipynb",
               "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2216%22%20viewBox%3D%220%200%2022%2022%22%3E%0A%20%20%3Cg%20class%3D%22jp-icon-warn0%20jp-icon-selectable%22%20fill%3D%22%23EF6C00%22%3E%0A%20%20%20%20%3Cpath%20d%3D%22M18.7%203.3v15.4H3.3V3.3h15.4m1.5-1.5H1.8v18.3h18.3l.1-18.3z%22%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M16.5%2016.5l-5.4-4.3-5.6%204.3v-11h11z%22%2F%3E%0A%20%20%3C%2Fg%3E%0A%3C%2Fsvg%3E%0A",
-              "x_pos": 499,
-              "y_pos": 240,
+              "x_pos": 96,
+              "y_pos": 142,
               "description": "Notebook file"
             }
           },
@@ -143,19 +92,7 @@
                   },
                   "label": "Input Port"
                 }
-              },
-              "links": [
-                {
-                  "id": "fffe850f-fb61-417b-8fa1-9dea963688fe",
-                  "node_id_ref": "4effbb4c-168e-46c4-b417-dd0d142b8a02",
-                  "port_id_ref": "outPort"
-                },
-                {
-                  "id": "a3091567-ffbe-46f5-a81e-7e27dc44ad04",
-                  "node_id_ref": "916fd2a5-53bd-4f82-adc4-42c618a0d065",
-                  "port_id_ref": "outPort"
-                }
-              ]
+              }
             }
           ],
           "outputs": [
@@ -179,15 +116,15 @@
           "comments": [
             {
               "id": "2b315788-98f4-47f7-aa68-742e8446171b",
-              "x_pos": 57,
-              "y_pos": 52,
+              "x_pos": 104,
+              "y_pos": 76,
               "width": 175,
               "height": 42,
               "class_name": "d3-comment-rect",
               "content": "get banzuke  (rankings data)",
               "associated_id_refs": [
                 {
-                  "node_ref": "4effbb4c-168e-46c4-b417-dd0d142b8a02"
+                  "node_ref": "2eb0eea0-2351-4f05-a05f-36c5e00f42dc"
                 }
               ]
             },
