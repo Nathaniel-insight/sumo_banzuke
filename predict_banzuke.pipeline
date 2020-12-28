@@ -9,24 +9,19 @@
       "id": "a2468571-c02a-4567-829f-f99c602d313b",
       "nodes": [
         {
-          "id": "916fd2a5-53bd-4f82-adc4-42c618a0d065",
+          "id": "6b30c7e8-f144-4d4d-ac00-98ed6fd9da2f",
           "type": "execution_node",
           "op": "execute-notebook-node",
           "app_data": {
-            "filename": "get_hoshitori.ipynb",
-            "runtime_image": "amancevice/pandas:1.1.1",
+            "filename": "get_banzuke.ipynb",
+            "runtime_image": "",
             "env_vars": [],
             "include_subdirectories": false,
-            "invalidNodeError": null,
-            "outputs": [
-              "hoshitori_2020.csv"
-            ],
-            "dependencies": [],
             "ui_data": {
-              "label": "get_hoshitori.ipynb",
+              "label": "get_banzuke.ipynb",
               "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2216%22%20viewBox%3D%220%200%2022%2022%22%3E%0A%20%20%3Cg%20class%3D%22jp-icon-warn0%20jp-icon-selectable%22%20fill%3D%22%23EF6C00%22%3E%0A%20%20%20%20%3Cpath%20d%3D%22M18.7%203.3v15.4H3.3V3.3h15.4m1.5-1.5H1.8v18.3h18.3l.1-18.3z%22%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M16.5%2016.5l-5.4-4.3-5.6%204.3v-11h11z%22%2F%3E%0A%20%20%3C%2Fg%3E%0A%3C%2Fsvg%3E%0A",
-              "x_pos": 116,
-              "y_pos": 344,
+              "x_pos": 180,
+              "y_pos": 153,
               "description": "Notebook file"
             }
           },
@@ -60,24 +55,19 @@
           ]
         },
         {
-          "id": "2eb0eea0-2351-4f05-a05f-36c5e00f42dc",
+          "id": "c964b504-4a3b-4d92-b2f1-1fc86e0ed7ae",
           "type": "execution_node",
           "op": "execute-notebook-node",
           "app_data": {
-            "filename": "get_banzuke.ipynb",
-            "runtime_image": "amancevice/pandas:1.1.1",
+            "filename": "get_hoshitori.ipynb",
+            "runtime_image": "",
             "env_vars": [],
             "include_subdirectories": false,
-            "invalidNodeError": null,
-            "outputs": [
-              "banzuke_2020.csv"
-            ],
-            "dependencies": [],
             "ui_data": {
-              "label": "get_banzuke.ipynb",
+              "label": "get_hoshitori.ipynb",
               "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2216%22%20viewBox%3D%220%200%2022%2022%22%3E%0A%20%20%3Cg%20class%3D%22jp-icon-warn0%20jp-icon-selectable%22%20fill%3D%22%23EF6C00%22%3E%0A%20%20%20%20%3Cpath%20d%3D%22M18.7%203.3v15.4H3.3V3.3h15.4m1.5-1.5H1.8v18.3h18.3l.1-18.3z%22%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M16.5%2016.5l-5.4-4.3-5.6%204.3v-11h11z%22%2F%3E%0A%20%20%3C%2Fg%3E%0A%3C%2Fsvg%3E%0A",
-              "x_pos": 96,
-              "y_pos": 142,
+              "x_pos": 178.47000122070312,
+              "y_pos": 315.3600158691406,
               "description": "Notebook file"
             }
           },
@@ -109,40 +99,69 @@
               }
             }
           ]
+        },
+        {
+          "id": "2ff9d447-a9f6-4c7b-80d8-68ada5a3b7bf",
+          "type": "execution_node",
+          "op": "execute-notebook-node",
+          "app_data": {
+            "filename": "clean_data.ipynb",
+            "runtime_image": "",
+            "env_vars": [],
+            "include_subdirectories": false,
+            "ui_data": {
+              "label": "clean_data.ipynb",
+              "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2216%22%20viewBox%3D%220%200%2022%2022%22%3E%0A%20%20%3Cg%20class%3D%22jp-icon-warn0%20jp-icon-selectable%22%20fill%3D%22%23EF6C00%22%3E%0A%20%20%20%20%3Cpath%20d%3D%22M18.7%203.3v15.4H3.3V3.3h15.4m1.5-1.5H1.8v18.3h18.3l.1-18.3z%22%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M16.5%2016.5l-5.4-4.3-5.6%204.3v-11h11z%22%2F%3E%0A%20%20%3C%2Fg%3E%0A%3C%2Fsvg%3E%0A",
+              "x_pos": 497.72998046875,
+              "y_pos": 232.010009765625,
+              "description": "Notebook file"
+            }
+          },
+          "inputs": [
+            {
+              "id": "inPort",
+              "app_data": {
+                "ui_data": {
+                  "cardinality": {
+                    "min": 0,
+                    "max": -1
+                  },
+                  "label": "Input Port"
+                }
+              },
+              "links": [
+                {
+                  "id": "9d5101ce-04cf-4d58-bdc4-8e54157e03da",
+                  "node_id_ref": "6b30c7e8-f144-4d4d-ac00-98ed6fd9da2f",
+                  "port_id_ref": "outPort"
+                },
+                {
+                  "id": "dd5d7547-9643-49db-80b3-fb2720f1e747",
+                  "node_id_ref": "c964b504-4a3b-4d92-b2f1-1fc86e0ed7ae",
+                  "port_id_ref": "outPort"
+                }
+              ]
+            }
+          ],
+          "outputs": [
+            {
+              "id": "outPort",
+              "app_data": {
+                "ui_data": {
+                  "cardinality": {
+                    "min": 0,
+                    "max": -1
+                  },
+                  "label": "Output Port"
+                }
+              }
+            }
+          ]
         }
       ],
       "app_data": {
         "ui_data": {
-          "comments": [
-            {
-              "id": "2b315788-98f4-47f7-aa68-742e8446171b",
-              "x_pos": 104,
-              "y_pos": 76,
-              "width": 175,
-              "height": 42,
-              "class_name": "d3-comment-rect",
-              "content": "get banzuke  (rankings data)",
-              "associated_id_refs": [
-                {
-                  "node_ref": "2eb0eea0-2351-4f05-a05f-36c5e00f42dc"
-                }
-              ]
-            },
-            {
-              "id": "e0df9397-6845-45bb-b0df-0d5d46d4e6fb",
-              "x_pos": 62,
-              "y_pos": 251,
-              "width": 175,
-              "height": 50,
-              "class_name": "d3-comment-rect",
-              "content": "get hoshitori (tournament results)",
-              "associated_id_refs": [
-                {
-                  "node_ref": "916fd2a5-53bd-4f82-adc4-42c618a0d065"
-                }
-              ]
-            }
-          ]
+          "comments": []
         },
         "version": 3
       },
