@@ -62,7 +62,7 @@ def abs_rank(df, cols = ['year', 'month', 'tier_rank', 'num_rank', 'is_east']):
     
     cols = cols
     rf = df.sort_values(by = cols, ascending = [True, True, True, True, False],ignore_index = True)
-    rf['next_order'] = rf.index
-    rf['next_abs_rank'] = rf.groupby(['year','month'])['next_order'].rank()
+    rf['order'] = rf.index
+    rf['abs_rank'] = rf.groupby(['year','month'])['order'].rank()
     
     return rf
