@@ -29,3 +29,21 @@ def get_results(year, month):
     df['month'] = month
     
     return df
+
+def get_year(year):
+    """
+    grab results for entire ear
+    """
+    
+    months = [str(x).zfill(2) for x in list(range(1,13,2))] # banzukes only occur every 3 months (starting in january)
+    
+    banzuke = []
+    
+    for month in months:
+        tf = get_results(year, month)
+        if tf.columns.str.contains('Rank').any() == True:
+            banzuke.append(tf)
+        
+    df = pd.concat(banzuke)
+    
+    return banzuke
