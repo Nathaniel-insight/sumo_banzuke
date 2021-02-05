@@ -3,6 +3,7 @@ modules for cleaning and processing banzukes and hoshitori
 """
 
 import pandas as pd
+import itertools
 
 def numerical_rank(df_rank):
     """
@@ -13,19 +14,32 @@ def numerical_rank(df_rank):
     
     return df_num
 
+def get_tier(rank_raw):
+    """
+    get tier rank by taking the first characters of the rank columns
+    """
+    
+    tier = "".join(itertools.takewhile(str.isalpha, rank_raw))
+    
+    return tier
+
 def tier_rank(df_rank):
     """
     return ordinal ranks for Y, O, S, K, M, J
     """
     
-    df_tier = df_rank.str[0]
+    df_tier = df_rank.apply(get_tier)
     mapper = {
         'Y': 1,
         'O': 2,
         'S': 3,
         'K': 4,
         'M': 5,
-        'J': 6
+        'J': 6,
+        'Ms': 7,
+        'Sd': 8,
+        'Jd': 9,
+        'Jk': 10
     }
     
     df_tier = df_tier.replace(mapper)

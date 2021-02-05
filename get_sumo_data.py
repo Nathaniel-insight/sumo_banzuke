@@ -46,4 +46,4 @@ def get_year(year):
         
     df = pd.concat(banzuke)
     
-    return banzuke
+    return df
