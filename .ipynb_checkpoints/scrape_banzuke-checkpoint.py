@@ -55,7 +55,6 @@ def scrape_year(year):
     for r in urls:
         res = requests.get(r)
         soup = BeautifulSoup(res.content, features="html5lib")
-        print(r)
         mak = retrieve_rows(soup, start_rank = 'Makuuchi', end_rank = 'Juryo')
         if type(mak) == type(str()):
             continue
@@ -69,7 +68,7 @@ def scrape_year(year):
     
     banzuke = pd.concat(banzuke, ignore_index=True)
     
-    return df
+    return banzuke
 
 def scrape_month(year, month):
     """

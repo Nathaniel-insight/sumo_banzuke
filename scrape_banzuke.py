@@ -68,7 +68,7 @@ def scrape_year(year):
     
     banzuke = pd.concat(banzuke, ignore_index=True)
     
-    return df
+    return banzuke
 
 def scrape_month(year, month):
     """
